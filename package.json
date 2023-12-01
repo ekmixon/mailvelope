@@ -52,7 +52,7 @@
     "enzyme-adapter-react-16": "^1.15.6",
     "eslint-plugin-react": "^7.23.2",
     "file-loader": "^6.2.0",
-    "grunt": "^1.4.0",
+    "grunt": "^1.6.0",
     "grunt-bump": "^0.8.0",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-compress": "^2.0.0",
@@ -73,7 +73,7 @@
     "karma-webpack": "^4.0.2",
     "mini-css-extract-plugin": "^1.6.0",
     "mocha": "^8.3.2",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.2",
     "node-sass-json-importer": "^4.3.0",
     "raw-loader": "^4.0.2",
     "sass-loader": "^10.1.1",
@@ -81,8 +81,8 @@
     "string-replace-loader": "^2.3.0",
     "style-loader": "^2.0.0",
     "to-string-loader": "^1.1.6",
-    "web-ext": "^6.1.0",
-    "webpack": "^4.46.0",
+    "web-ext": "^7.6.0",
+    "webpack": "^5.1.1",
     "webpack-cli": "^4.6.0"
   },
   "engines": {
